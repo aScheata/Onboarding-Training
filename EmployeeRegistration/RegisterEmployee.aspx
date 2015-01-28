@@ -1,4 +1,4 @@
-﻿<%@ Page Title="New Employee" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="RegisterEmployee.aspx.cs" Inherits="EmployeeRegistration.RegisterEmployee" %>
+﻿<%@ Page Title="New Employee" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Registeraspx.cs" Inherits="EmployeeRegistration.RegisterEmployee" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
   
@@ -17,7 +17,7 @@
     </script>
   
   <div class="form-horizontal">
-        <h4>Register New Employee.</h4>
+        <h4>Register New </h4>
         <hr />
         <asp:ValidationSummary runat="server" CssClass="text-danger" />       
         <div class="form-group">

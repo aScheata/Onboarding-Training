@@ -1,9 +1,9 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using REISys.Training.Repository.Repository;
-using REISys.Training.Repository.DAL;
+using Repository.Repository;
+using Repository.DAL;
 
-namespace REISys.Traning.Test
+namespace Traning.Test
 {
     [TestClass]
     public class EmployeeRepositoryTest

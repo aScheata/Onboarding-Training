@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using REISys.Training.Repository.DAL;
+using Repository.DAL;
 
-namespace REISys.Training.Repository.Repository
+namespace Repository.Repository
 {
  
     /// <summary>

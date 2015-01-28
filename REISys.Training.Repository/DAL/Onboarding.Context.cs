@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace REISys.Training.Repository.DAL
+namespace Repository.DAL
 {
     using System;
     using System.Data.Entity;

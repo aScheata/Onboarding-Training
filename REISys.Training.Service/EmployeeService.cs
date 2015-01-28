@@ -1,12 +1,12 @@
-﻿using REISys.Training.Repository.DAL;
-using REISys.Training.Repository.Repository;
+﻿using Repository.DAL;
+using Repository.Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace REISys.Training.BusinessLayer
+namespace BusinessLayer
 {
     public class EmployeeService : IEmployeeService
     {
