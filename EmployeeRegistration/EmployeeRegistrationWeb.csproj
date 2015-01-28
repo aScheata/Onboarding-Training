@@ -263,7 +263,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\REISys.Training.Service\BusinessLayer.csproj">
+    <ProjectReference Include="..\BusinessLayer\BusinessLayer.csproj">
       <Project>{67fc1494-dd50-45e4-ad58-73a0140b230c}</Project>
       <Name>BusinessLayer</Name>
     </ProjectReference>

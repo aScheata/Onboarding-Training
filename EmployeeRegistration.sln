@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "REISys.Training.Service\BusinessLayer.csproj", "{67FC1494-DD50-45E4-AD58-73A0140B230C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{67FC1494-DD50-45E4-AD58-73A0140B230C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "REISys.Training.Repository\Repository.csproj", "{D2ED8B9E-D9B0-482C-B578-CC082093DB7F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{D2ED8B9E-D9B0-482C-B578-CC082093DB7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "REISys.Traning.Test\Test.csproj", "{19F47108-8B56-4BD9-8926-A95A7E5DDEFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{19F47108-8B56-4BD9-8926-A95A7E5DDEFB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeRegistrationWeb", "EmployeeRegistration\EmployeeRegistrationWeb.csproj", "{1493B58F-48DE-4BD9-9DF9-D7A82A8BDCA6}"
 EndProject
